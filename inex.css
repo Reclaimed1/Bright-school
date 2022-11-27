@@ -1,0 +1,56 @@
+/* global rep */
+.note{
+  color: red;
+}
+.wholePage{
+  margin: 5%;
+}
+/* index page */
+.cont1{
+  padding: 7%;
+}
+
+/* code for school registration section */
+.regSection{
+  text-align: center;
+  padding-top: 7%;
+}
+
+.picArea{
+  width:150px;
+  border:3px solid;
+  margin: 1% auto;
+  height:100px;
+}
+.cedTable{
+  margin: 1% auto;
+}
+/* admin login section */
+.adm{
+  margin-left: 1%;
+  float:left;
+  margin-right: 3%;
+  height:150px;
+}
+.schDetails{
+  margin-top: 1%;
+}
+.mainfunction{
+  width: 100%;
+  height: 700px;
+  border: 3px solid;
+  margin-top: 3%;
+}
+.picDetails{
+  width:150px;
+  border:3px solid;
+  height:100px;
+  margin: 1%;
+  margin-right: 2%;
+}
+.cInfo{
+  width: 90%;
+  border: 2px solid;
+  border-radius: 7px;
+
+}
